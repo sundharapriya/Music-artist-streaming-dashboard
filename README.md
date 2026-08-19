@@ -1,4 +1,3 @@
-# Music-artist-streaming-dashboard
 
 # Music Artist Streaming Dashboard
 
